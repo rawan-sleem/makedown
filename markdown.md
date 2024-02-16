@@ -1,8 +1,8 @@
-#Node.js Progress
+Node.js Progress
 ***
 just take your time 
 
-##Levels
+Levels
 ---
 |Level | Weeks | Start |
 |----------|----------|----------|
@@ -11,7 +11,7 @@ just take your time
 | 2| 10 | Apr |
 | 3 | 11 | Jul |
 
-##Checklist
+Checklist
 ---
 - Level 0
    - [x] HTML & CSS
